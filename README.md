@@ -17,11 +17,12 @@ Using the slicing concept rotate the list
 Print the values 
 ### Step 6: 
 End the program
-## Program:#Program to circulate N values.
+## Program:
 ```
-#Developed by: 
+#Program to circulate N values.
+#Developed by: SITHI HAJARA
 
-#RegisterNumber:
+#RegisterNumber:21500125
 
 def circulate():
 
