@@ -18,11 +18,10 @@ Print the values
 ### Step 6: 
 End the program
 ## Program:
-```
+~~~
 #Program to circulate N values.
-#Developed by: SITHI HAJARA
-
-#RegisterNumber:21500125
+Developed by:SYED MUHAMMED ZAHI
+RegisterNumber:21004029
 
 def circulate():
 
@@ -33,7 +32,7 @@ def circulate():
    result=l[n:]+l[:n]
 
    print("After circulating the values are:",result)
-```
+   ~~~
 ## Output:
 
 ![OUTPUT](./CIRCULATE.jpeg)
